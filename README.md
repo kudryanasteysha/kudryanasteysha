@@ -33,27 +33,6 @@ Hello! I'm **Anastasiia**, an experienced **Automation QA Engineer** and **Softw
 
 ---
 
-### 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kudryanasteysha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kudryanasteysha&layout=compact&theme=radical)
-
----
-
-### 🌱 Currently Learning & Exploring:
-- Blockchain technology and its applications in Fintech
-- Advanced test automation techniques with **Playwright** and **Java**
-- Performance testing and CI/CD pipeline optimization
-
----
-
-### ✨ Fun Facts:
-- 🎨 I’m an avid **digital artist** and love blending tech with creativity.
-- 🌍 I enjoy participating in tech meetups.
-- 🏋️‍♀️ I love staying active through various **sports** and fitness activities to keep both my body and mind in shape.
-
----
-
 ### 📫 How to Reach Me:
 - LinkedIn: [Anastasiia](https://www.linkedin.com/in/anastasiia-qa-engineer)
 
